@@ -9,5 +9,6 @@
     color: darkcyan;
 }
 
-
-
+.container {
+    display: flex;
+}
